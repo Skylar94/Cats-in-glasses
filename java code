@@ -1,4 +1,14 @@
-   Scanner Sc = new Scanner(System.in);
+
+
+
+     /**
+     * @param args the command line arguments
+     */
+
+
+    public static void main(String[] args) {
+        
+        Scanner Sc = new Scanner(System.in);
         
         int num1, num2;
         
