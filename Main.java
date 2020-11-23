@@ -38,7 +38,7 @@ public class Main {
          // author Ingrid Castro.
          // method will subtract two numbers.
       int result = a - b;
-      System.out.println("substraction of entered integers = "+result);
+      System.out.println("The subtraction of the values is equal to "+result);
     }
 }
 
