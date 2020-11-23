@@ -11,7 +11,7 @@ public class Main {
         // <yourMethodName>();
         example();
         methodRobert(2.4,4.5);
-
+        methodIngrid(10,3);
 
 
     }
@@ -34,5 +34,11 @@ public class Main {
          double sum = (number1+number2)/2;
          System.out.println("sum of "+number1+" + "+number2+" devided by numebr of factors = "+sum);
      }
+     public static void methodIngrid(int a, int b){
+         // author Ingrid Castro.
+         // method will subtract two numbers.
+      int result = a - b;
+      System.out.println("substraction of entered integers = "+result);
+    }
 }
 
